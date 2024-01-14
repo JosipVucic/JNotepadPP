@@ -1,4 +1,4 @@
-# JNotepadPP: Feature-Rich Java Swing Notepad
+# JNotepadPP
 
 JNotepadPP is a Java Swing notepad application developed as part of the renowned Čupić Java course. This feature-rich notepad offers a variety of functionalities to enhance your text editing experience. Here's an overview of the key features:
 
